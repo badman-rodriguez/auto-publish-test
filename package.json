@@ -1,0 +1,20 @@
+{
+  "name": "auto-publish-test",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy:prod": ". versionbump.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badman-rodriguez/auto-publish-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badman-rodriguez/auto-publish-test/issues"
+  },
+  "homepage": "https://github.com/badman-rodriguez/auto-publish-test#readme"
+}
